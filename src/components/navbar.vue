@@ -81,9 +81,10 @@
 </template>
 
 <script>
+/**
+ * Navbar component for navigation.
+ */
 export default {
   name: 'navbar',
 };
 </script>
-
-
